@@ -140,21 +140,21 @@ if (c === v) {
     console.log(">")
 }
 
-// //2chi vazifa
-// let a = Math.floor(Math.random() * 100);
-// let b = Math.floor(Math.random() * 100);
-//
-// console.log(a + ' ' + b)
-//
-// if (a > b) {
-//     console.log(a + ' ' + b)
-// } else if (b > a) {
-//     console.log(b + ' ' + a)
-// }
-//
-//
-// //3chi vazifa
-// let max = Math.max(963, 487, 847)
-// let min = Math.min(963, 487, 847)
-//
-// console.log(max - min)
+//2chi vazifa
+let a = Math.floor(Math.random() * 100);
+let b = Math.floor(Math.random() * 100);
+
+console.log(a + ' ' + b)
+
+if (a > b) {
+    console.log(a + ' ' + b)
+} else if (b > a) {
+    console.log(b + ' ' + a)
+}
+
+
+//3chi vazifa
+let max = Math.max(963, 487, 847)
+let min = Math.min(963, 487, 847)
+
+console.log(max - min)
